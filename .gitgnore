@@ -1,0 +1,6 @@
+venv/
+crawl4ai-full/
+__pycache__/
+*.pyc
+.env
+.DS_Store 
